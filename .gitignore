@@ -1,1 +1,14 @@
-node_modules
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Excel
+*.xlsx
+
+# Node
+node_modules/
+
+# Env
+.env
