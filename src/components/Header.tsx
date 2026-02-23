@@ -14,13 +14,13 @@ export function Header({ currentPage, onNavigate }: HeaderProps) {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
             <ImageWithFallback
-              src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=100&h=100&fit=crop"
+              src="https://sun1-28.userapi.com/s/v1/ig2/hRBuQn4g0eP52lYON4xpCZ8-K8qGN0K_CkROHfLLpc5COHwlaMUREt_7skcXbrAvSw7falBu-DmAUqUrzd_x2SIt.jpg?size=1280x1280&quality=95&crop=0,0,1280,1280&ava=1"
               alt="Logo"
               className="w-10 h-10 rounded-lg"
             />
             <div>
               <h1 className="text-slate-900">Forecast Analytics</h1>
-              <p className="text-sm text-slate-600">Department Dashboard</p>
+              <p className="text-sm text-slate-600">Direction of Portfolio Analytics</p>
             </div>
           </div>
           
